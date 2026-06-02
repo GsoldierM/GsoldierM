@@ -2,7 +2,7 @@
 
 **Senior Machine Learning Scientist @ Sephora** · Seattle, WA · IEEE Senior Member
 
-I build large-scale **recommendation, ranking, and personalization systems** end to end — from retrieval and ranking architectures to distributed inference, REST serving, and online evaluation — productionizing models that personalize the experience for **54M+ customers**.
+**End to End Recommender System,and Personalization**
 
 ---
 
@@ -26,10 +26,6 @@ Data/Compute   PySpark · Databricks · Delta Lake
 Infra/MLOps    Git · CI/CD · Docker · Kubernetes · Azure Data Factory
 GenAI          Hugging Face · LangChain · LlamaIndex · Vector Databases
 ```
-
-## 🎓 Education
-
-M.S. in Marketing Analytics *(STEM)* — Simon Business School, University of Rochester
 
 ## 📫 Connect
 
