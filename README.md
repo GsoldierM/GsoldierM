@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GsoldierM
-- 👀 I’m interested in all data science projects especially in marketing analytics areas 
-- 🌱 I’m currently learning customer lifetime model, customer segmentation, campaign measurement, etc.  
-- 📫 You can reach me at zhuomeng.gao@outlook.com. 
+- 👀 I’m interested in all data science projects especially in marketing analytics areas   
+- 📫 You can reach me at zhuomengds@gmail.com. 
 
 <!---
 GsoldierM/GsoldierM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
