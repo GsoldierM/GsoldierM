@@ -2,11 +2,11 @@
 
 **Senior Machine Learning Scientist @ Sephora** · Seattle, WA · IEEE Senior Member
 
-**End to End Recommender System,and Personalization**
+**Recommender System,and Personalization**
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **ML Systems & Modeling** — Recommendation & ranking systems · Personalization & ads experience · Large-scale user behavioral modeling
 
