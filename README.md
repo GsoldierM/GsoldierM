@@ -8,15 +8,11 @@
 
 ## Skills
 
-**ML Systems & Modeling** — Recommendation & ranking systems · Personalization & ads experience · Large-scale user behavioral modeling
-
-**Deep Learning & Advanced Modeling** — Embedding models · Two-Tower retrieval · Sequential modeling (DIN / Attention) · Learning-to-Rank (LTR) · Multi-task learning (MMoE / PLE) · Graph Neural Networks (LightGCN)
-
-**ML Ops & Infrastructure** — End-to-end ML production (system design, deployment, monitoring) · Large-scale distributed data processing & batch inference · REST API serving · Multi-channel activation · Offline & online evaluation · A/B testing
-
-**Generative AI & LLMs** — RAG architectures (vector DBs, semantic search) · Fine-tuning (LoRA) · Prompt engineering (CoT, few-shot) · Agentic workflow orchestration (LangChain, tool integration)
-
-**Marketing Science** — Marketing Mix Modeling (MMM) · Multi-Touch Attribution (MTA) · Time-series & causal impact analysis · Media ROI optimization · Experimentation (A/B testing & geo-experiments)
+- **Recommendation & Ranking** — Two-Tower retrieval · LTR · DIN/Attention · MMoE/PLE · LightGCN · embeddings
+- **Personalization** — user behavioral modeling · large-scale ranking · ads experience
+- **ML Ops** — end-to-end production · distributed batch inference · REST serving · A/B testing
+- **GenAI & LLMs** — RAG · LoRA fine-tuning · prompt engineering · agentic workflows
+- **Marketing Science** — MMM · MTA · causal impact · geo-experiments
 
 ## 🛠️ Tech Stack
 
